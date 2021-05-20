@@ -11,4 +11,4 @@
   
   Score: Each time you touch a Nasty (red pixel) you score a point and the red pixels are banished to the end of the string world. The white pixel is your score.
   
-  Dimensions: To change dimension to a different 1D string press the othe two buttons. Your current dimension is shown by the black pixel on your island.
+  Dimensions: To change dimension to a different 1D string press the other two buttons. Your current dimension is shown by the black pixel on your island.
