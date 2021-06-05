@@ -8,6 +8,7 @@
   You: You are the Green Pixel which you can move up and down the visible string via buttons 
   Score: Each time you touch a Nasty (red pixel) you score a point and the red pixels are banished to the end of the string world. The white pixel is your score.
   Dimensions: To change dimension to a different 1D string press the other two buttons. Your current dimension is shown by the black pixel on your island.
+  As you score more points the 'nasty' move faster. The game is over when a nasty makes it to your island. There are 10 nasties, two in each dimension.
 
   From Jaycar:
   Neopixels and Uno Board
